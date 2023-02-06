@@ -4,90 +4,105 @@
       "id": 2,
       "conteudo": "Na minha máquina funciona!",
       "autoria": "Dev da madrugada",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
       "autoria": "Pessoa da operadora",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Por que meu código funcionou?",
       "autoria": "Dev ",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 6
     },
     {
       "conteudo": "Na volta a gente compra!",
       "autoria": "Mãe",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 7
     },
     {
       "conteudo": "Sou poliglota; falo português, inglês e JavaScript!",
       "autoria": "Devs",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 9
     },
     {
       "id": 13,
       "conteudo": "Que a força esteja com vc!",
       "autoria": "Mestre Yoda!",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet lacus vel massa dignissim lacinia. Morbi viverra semper nunc non porttitor. Proin id ligula scelerisque, dictum leo a, condimentum urna. Sed sapien sapien, feugiat non ultricies nec, commodo vulputate tortor. Nam ut dignissim augue. Etiam sit amet est enim. Donec at urna non mauris pretium condimentum eget at elit. Aliquam sit amet blandit elit. ",
       "autoria": "Dev Angular",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 14
     },
     {
       "conteudo": "Etiam tincidunt in turpis eget pellentesque. Vestibulum vehicula dui at leo ultrices, a tincidunt nulla tempor. Proin nec pharetra lorem. Ut dapibus nunc nibh, gravida bibendum justo maximus non. Nullam et molestie odio. Quisque condimentum urna eget augue imperdiet, sollicitudin congue magna rhoncus. Suspendisse potenti. Maecenas tempus quam id sapien faucibus, id lobortis est fringilla. Etiam a diam lacinia ipsum vehicula finibus. Ut laoreet, justo eu scelerisque sodales, neque libero rhoncus arcu, et tempor arcu lorem et metus. Quisque et dui metus. Cras finibus libero ac turpis gravida ornare. Aenean nec ligula suscipit, tristique est at, congue lacus. Vivamus laoreet diam nibh, nec porta elit accumsan vitae. ",
       "autoria": "Teste",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 15
     },
     {
       "conteudo": "Pellentesque viverra eget tellus et feugiat. Donec pellentesque sem eu risus faucibus volutpat vel a ante. Suspendisse massa nibh, aliquam in gravida ut, posuere eu dui. Donec maximus et lorem non tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dolor erat, elementum blandit volutpat a, finibus id sem. Nullam placerat feugiat nulla sit amet faucibus. Nullam hendrerit, tellus at interdum blandit, est ipsum ullamcorper felis, sed lobortis est nulla ultrices nulla. Vivamus id purus vel dolor fermentum sagittis eu quis lectus. Curabitur aliquam non sapien id efficitur. Donec id aliquam est, non sagittis sapien. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc ullamcorper, urna at scelerisque aliquam, est neque commodo ante, in consequat velit metus quis tellus. Nulla facilisi. Aliquam gravida convallis urna, mattis condimentum lorem euismod rutrum. Mauris vehicula lorem eget libero tempus sagittis. ",
       "autoria": "Dev",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 16
     },
     {
       "conteudo": "Duis nec justo leo. Quisque consequat euismod libero, non eleifend magna porta ac. Donec odio enim, dignissim at turpis nec, ornare congue erat. Curabitur justo magna, aliquam eu mi vel, sollicitudin fringilla neque. Curabitur ut volutpat tellus. Vivamus faucibus accumsan mauris, et mattis quam ullamcorper eget. Suspendisse mollis metus blandit, ornare orci sed, lobortis leo. Morbi rutrum massa nec eros mattis elementum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer sit amet sem sed elit ultricies efficitur. Cras neque risus, mattis nec fermentum quis, feugiat eget purus. Nunc lobortis sollicitudin auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget ex semper quam suscipit hendrerit sed at massa. ",
       "autoria": "Dev",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 17
     },
     {
       "conteudo": "Integer ut blandit purus. Praesent eget nisl in ligula semper pulvinar at fermentum neque. Maecenas tempus tellus nibh, sodales luctus sem fermentum nec. Etiam non fermentum mi. Duis ultricies mollis nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris ac diam imperdiet, ultrices leo eget, semper nibh. Curabitur accumsan urna ut varius consequat. Aenean viverra tempor magna, ut dictum leo. Praesent sem turpis, rutrum ac luctus nec, dapibus a risus. Sed dapibus congue felis blandit gravida. Etiam dignissim, nunc eu lacinia congue, tortor augue vulputate magna, a imperdiet ipsum sem non dui. ",
       "autoria": "Dev",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 18
     },
     {
       "conteudo": "dsafasdfsdafasdf",
       "autoria": "Dev",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 19
     },
     {
       "conteudo": "Dedsfasdfas ",
       "autoria": "Dev",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 20
     },
     {
       "conteudo": "Ddasfsdafasfasdgafdghdgfsh",
       "autoria": "Dev",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 21
     }
   ]
